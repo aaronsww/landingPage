@@ -3,4 +3,4 @@ The reference design I used came in the form of 2 images: one is an image of the
 
 <img src="images/odin-project.png">
 <img src="images/colors_and_stuff.png">
-<img src="images/Blade-Runner.jpeg">
+<img src="images/Blade-Runner.jpg">
