@@ -5,5 +5,5 @@ The reference design I used came in the form of 2 images: one is an image of the
 <img src="images/colors_and_stuff.png" width="755">
 
 
-<img src="images/Blade-Runner.jpg">
-Still from Denis Villeneuve, *Blade Runner 2049*.
+<img src="images/Blade-Runner.jpg" width="680">
+Still from Denis Villeneuve, *Blade Runner 2049* .
